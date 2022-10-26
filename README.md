@@ -31,7 +31,7 @@ npm install
 The main test case is [`acme-bank.test.js`](test/acme-bank.test.js).
 
 To execute tests, set the `APPLITOOLS_API_KEY` environment variable
-to your [account's API key](https://applitools.com/tutorials/getting-started/setting-up-your-environment.html),
+to your [account's API key](https://applitools.com/tutorials/guides/getting-started/registering-an-account),
 and then run:
 
 ```
