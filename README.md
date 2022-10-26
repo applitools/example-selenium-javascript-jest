@@ -1,6 +1,6 @@
 # Applitools Example: Selenium JavaScript Jest with the Ultrafast Grid
 
-This is the example project for the [Selenium JavaScript Jest tutorial](https://applitools.com/tutorials/jest-selenium-javascript.html).
+This is the example project for the [Selenium JavaScript Jest tutorial](https://applitools.com/tutorials/quickstart/web/selenium/javascript/jest).
 It shows how to start automating visual tests with the [Applitools Eyes](https://applitools.com/platform/eyes/)
 and the [Ultrafast Grid](https://applitools.com/platform/ultrafast-grid/)
 using [Selenium WebDriver](https://www.selenium.dev/) in JavaScript.
@@ -39,4 +39,4 @@ npm test
 ```
 
 **For full instructions on running this project, take our
-[Selenium JavaScript Jest tutorial](https://applitools.com/tutorials/jest-selenium-javascript.html)!**
+[Selenium JavaScript Jest tutorial](https://applitools.com/tutorials/quickstart/web/selenium/javascript/jest)!**
